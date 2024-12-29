@@ -1,2 +1,3 @@
-# Exemplo-trabalho-econometria-Analise-exploratoria-de-dados
+# Exemplo-trabalho-econometria
+# Analise-exploratoria-de-dados
 Exemplo
